@@ -9,11 +9,11 @@ import requests
 
 # payload fed into score function
 score_payload = [
-    ''' Will need to get test cases from assignment
-    Example tuples in payload:
-    ( 99, 99 ),
-    ( 99, 99, 9 )
-    '''
+    # Will need to get test cases from assignment
+    # Example tuples in payload:
+    #( 99, 99 ),
+    #( 99, 99, 9 )
+
 ]
 
 # Boolean constants utilized in stand function
